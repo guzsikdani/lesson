@@ -158,7 +158,7 @@ Minden egyes mérföldkőnek az elérése után a fejlesztői csoport az aktuál
  </tr>
   <tr>
   <td>H0001</td>
-  <td></td>
+  <td>Hiba, a felület kijelzi, hogy a felhasználó és jelszó páros nem helyes.</td>
   <td></td>
   <td></td>
  </tr>
