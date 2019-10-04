@@ -19,7 +19,7 @@ Minden egyes mérföldkőnek az elérése után a fejlesztői csoport az aktuál
  </tr>
 
  <tr>
- <td>H0001
+ <td>[H0001](#H0001)
  <td>Bejelentkezés
  <td>A bejelntkező űrlapot olyan felhasználó és jelszó párral töltik ki ami előzetesen nem regisztrált a rendszerben.
  <td> Hiba, a felület kijelzi, hogy a felhasználó és jelszó páros nem helyes.
@@ -152,12 +152,13 @@ Minden egyes mérföldkőnek az elérése után a fejlesztői csoport az aktuál
  <table  style="width:100%" border="1px thin black" >
  <tr>
   <td>Tesztjegy</td>
+  <td>Művelet</td>
   <td>Elvárt kimenet</td>
   <td>Kapott kimenet</td>
   <td>Teszt eredmény</td>
  </tr>
   <tr>
-  <td>H0001</td>
+  <td>[H0001](#H0001)</td>
   <td>Hiba, a felület kijelzi, hogy a felhasználó és jelszó páros nem helyes.</td>
   <td></td>
   <td></td>
